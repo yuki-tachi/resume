@@ -6,7 +6,7 @@
   "author": "yuki.tachi",
   "license": "MIT",
   "scripts": {
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js && mv docs/README.pdf docs/resume.pdf"
   },
   "devDependencies": {
     "md-to-pdf": "^5.2.4"
