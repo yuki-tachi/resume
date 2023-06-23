@@ -5,12 +5,12 @@
 |  生年月日  |  1988/09/11  |
 |  居住地  |  東京都  |
 
-![Static Badge](https://img.shields.io/badge/%40tch__ukey-brightGreen?logo=qiita&logoColor=white&link=https%3A%2F%2Fqiita.com%2Ftch_ukey) ![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fyuki_ty20&logo=twitter&label=%40yuki_ty20) ![Static Badge](https://img.shields.io/badge/%40yuki--tachi-black?logo=github&link=https%3A%2F%2Fgithub.com%2Fyuki-tachi)
+[![Static Badge](https://img.shields.io/badge/%40tch__ukey-brightGreen?logo=qiita&logoColor=white&link=https%3A%2F%2Fqiita.com%2Ftch_ukey)](https://qiita.com/tch_ukey) [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fyuki_ty20&logo=twitter&label=%40yuki_ty20)](https://twitter.com/yuki_ty20) [![Static Badge](https://img.shields.io/badge/%40yuki--tachi-black?logo=github&link=https%3A%2F%2Fgithub.com%2Fyuki-tachi)](https://github.com/yuki-tachi)
 
 # 職務経歴
 
 ## REALITY株式会社（2022/01 ~ ）
-_オンラインゲーミングプラットフォーム [Roblox](https://www.roblox.com/) 上でプレイ可能なアクションゲーム開発_
+### オンラインゲーミングプラットフォーム [Roblox](https://www.roblox.com/) 上でプレイ可能なアクションゲーム開発
 
 * プロジェクト規模
     * 約7名
@@ -18,7 +18,7 @@ _オンラインゲーミングプラットフォーム [Roblox](https://www.rob
     * [Roblox Studio](https://www.roblox.com/create) + LuaでクライアントUI全般を対応
     * 初使用の開発環境と言語だったので、早急にキャッチアップを終わらせ、プロジェクト中盤から参加
 
-_バーチャルライブ配信アプリ[REALITY](https://reality.app/)内でプレイ可能な [#REALITY 釣り部](https://reality.app/notice/page/FdwfaDjmjDz4) の開発_
+### バーチャルライブ配信アプリ[REALITY](https://reality.app/)内でプレイ可能な [#REALITY 釣り部](https://reality.app/notice/page/FdwfaDjmjDz4) の開発
 
 最初期にUnityでプロトタイプの制作を行う。その後、開発中盤ごろから合流し、主にクライアントの各機能実装を担当。リリース後、運用フェーズ時にクライアントリードとして改修・保守を担当した
 
@@ -32,7 +32,7 @@ _バーチャルライブ配信アプリ[REALITY](https://reality.app/)内でプ
     * 運用フェーズ時にリードエンジニアとして、PRのレビュー担当
 
 ## 株式会社WFS（2020/07 ~ 2021/12）
-_製薬会社の請負・外部のガジェット開発会社と共同で、アンガーマネジメントを目的とした、ヘルスケアネイティブアプリの開発_
+### 製薬会社の請負・外部のガジェット開発会社と共同で、アンガーマネジメントを目的とした、ヘルスケアネイティブアプリの開発
 * プロジェクト規模
     * 5人前後
 * プロジェクト期間
@@ -42,7 +42,7 @@ _製薬会社の請負・外部のガジェット開発会社と共同で、ア�
     * 腕輪型のデバイスとのBluetooth LE 接続周りの実装
     * 日記など各種用機能の実装
 
-_LINE・FaceBookで動作するHTML5ゲームの開発_
+### LINE・FaceBookで動作するHTML5ゲームの開発
  * プロジェクト規模
     * 平均3〜6人チームでの小規模開発
  * プロジェクト詳細
