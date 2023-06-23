@@ -1,0 +1,14 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yuki-tachi/resume.git",
+  "author": "yuki.tachi",
+  "license": "MIT",
+  "scripts": {
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js"
+  },
+  "devDependencies": {
+    "md-to-pdf": "^5.2.4"
+  }
+}
