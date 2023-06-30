@@ -1,9 +1,9 @@
 # 職務経歴書
-|  項目  |  概要  |
-| ---- | ---- |
-|  名前  |  舘裕紀  |
-|  生年月日  |  1988/09/11  |
-|  居住地  |  東京都  |
+|項目|概要|
+|----|----|
+|名前|舘裕紀|
+|生年月日|1988/09/11|
+|居住地|東京都|
 
 [![Static Badge](https://img.shields.io/badge/%40tch__ukey-brightGreen?logo=qiita&logoColor=white&link=https%3A%2F%2Fqiita.com%2Ftch_ukey)](https://qiita.com/tch_ukey) [![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fyuki_ty20&logo=twitter&label=%40yuki_ty20)](https://twitter.com/yuki_ty20) [![Static Badge](https://img.shields.io/badge/%40yuki--tachi-black?logo=github&link=https%3A%2F%2Fgithub.com%2Fyuki-tachi)](https://github.com/yuki-tachi)
 
