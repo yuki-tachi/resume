@@ -6,9 +6,14 @@
   "author": "yuki.tachi",
   "license": "MIT",
   "scripts": {
-    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js && mv docs/README.pdf docs/resume.pdf"
+    "build:pdf": "md-to-pdf docs/README.md --config-file ./pdf-configs/config.js && mv docs/README.pdf docs/resume.pdf",
+    "lint": "textlint ."
   },
   "devDependencies": {
-    "md-to-pdf": "^5.2.4"
+    "@proofdict/textlint-rule-proofdict": "^3.1.2",
+    "md-to-pdf": "^5.2.4",
+    "textlint": "^13.3.3",
+    "textlint-rule-preset-ja-spacing": "^2.3.0",
+    "textlint-rule-preset-ja-technical-writing": "^8.0.0"
   }
 }
