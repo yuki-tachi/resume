@@ -48,7 +48,7 @@
     * 平均3〜6人チームでの小規模開発
  * プロジェクト詳細
     * 2週間~3ヶ月ほどの開発期間でカジュアルゲームをいくつも作成していた
-    * [Cocos Creatar](https://www.cocos.com/creator) + TypeScriptで開発
+    * [Cocos Creatar](https://www.cocos.com/creator)+TypeScriptで開発
     * 設計は簡易的なDDDで保守しやすく、工数をかけすぎないことを意識して実装
 
 ## グリー株式会社（2018/04 ~ 2020/06）
