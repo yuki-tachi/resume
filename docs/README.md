@@ -18,6 +18,7 @@
 * プロジェクト詳細
     * [Roblox Studio](https://www.roblox.com/create) + LuaでクライアントUI全般を対応
     * 初使用の開発環境と言語だったので、早急にキャッチアップを終わらせ、プロジェクト中盤から参加
+    * [Wizards-Legacy-Early-Access](https://www.roblox.com/games/13666672216/Wizards-Legacy-Early-Access)
 
 ### バーチャルライブ配信アプリ[REALITY](https://reality.app/)内でプレイ可能な [#REALITY 釣り部](https://reality.app/notice/page/FdwfaDjmjDz4) の開発
 
@@ -79,8 +80,11 @@
 * CSSのセレクタを駆使して複雑なレイアウトを組める
 * jQueryなどで要素に動きをつける
 
+### React
+* 最新のクライアントUI環境に対応するため独学中([作例](https://github.com/yuki-tachi/IdenticonGenerator))
+
 ### Python
-* 興味があり独学中
+* ChatGPTやデータ分析などで盛り上がっているので独学中([作例](https://github.com/yuki-tachi/CampsiteAvailabilityChecker))
 
 ### Lua
 * 案件で使う開発環境がLuaを採用しているので、３ヶ月前から触っている
